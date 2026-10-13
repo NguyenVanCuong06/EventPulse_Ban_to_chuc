@@ -23,5 +23,5 @@ HTML5, CSS3, JavaScript, dữ liệu mô phỏng và LocalStorage.
 ## Figma và video
 
 - Figma: design/figma-link.txt
-- Video trình bày: bổ sung link video cá nhân sau khi quay.
-- GitHub cá nhân: bổ sung link repository sau khi tạo.
+- Video trình bày:
+- GitHub cá nhân:
