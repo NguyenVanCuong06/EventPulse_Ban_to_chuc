@@ -23,5 +23,5 @@ HTML5, CSS3, JavaScript, dữ liệu mô phỏng và LocalStorage.
 ## Figma và video
 
 - Figma: design/figma-link.txt
-- Video trình bày:
-- GitHub cá nhân:
+- Video trình bày: https://youtu.be/ZTXmWhcUDvo
+- GitHub cá nhân: https://github.com/NguyenVanCuong06/EventPulse_Ban_to_chuc
